@@ -6,7 +6,7 @@
 
 ### SpaceGame
 OOP solution for a collision based graphics space shooter.
-![SpaceGame]()
+![SpaceGame](https://github.com/dunc-punc-schunc/ProgrammingPortfolio/blob/gh-pages/images/spacegame.png?raw=true)
 [Source Code]()
 
 ## C++ Projects
